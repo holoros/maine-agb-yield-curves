@@ -72,7 +72,7 @@ slope test for every candidate, so the curves are population curves and do not p
 
 ## Restricted data audit
 
-See RUNBOOK.md. LAT and LON were never read; plot identifiers stayed on the analysis server.
+See RUNBOOK.md in the Zenodo record (https://doi.org/10.5281/zenodo.23406410). LAT and LON were never read; plot identifiers stayed on the analysis server.
 
 ## Citation
 
