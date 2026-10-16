@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use these curves, please cite the concept DOI of this record."
+title: "Generic aboveground biomass yield curves for Maine forest types and ecoregions from FIA remeasurements"
+version: 1.0.0
+date-released: 2026-10-15
+license: CC-BY-4.0
+authors:
+  - family-names: Weiskittel
+    given-names: Aaron R.
+    orcid: "https://orcid.org/0000-0003-2534-4478"
+    affiliation: "Center for Research on Sustainable Forests, University of Maine"
+# repository-code: "https://github.com/holoros/maine-agb-yield-curves"  (uncomment once the repository exists)
+doi: 10.5281/zenodo.23406410
+# version DOI reserved October 15, 2026; cite the concept DOI shown on the record page once published
